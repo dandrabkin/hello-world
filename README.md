@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+
+I'm interested in CSS and Web design trends, especially regarding webcomics and responsive design.
+
