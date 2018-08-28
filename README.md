@@ -1,3 +1,4 @@
 # hello-world
 
-I have no idea what I'm doing.
+I'm interested in CSS and Web design trends, especially regarding webcomics and responsive design. 
+
